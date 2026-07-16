@@ -66,7 +66,7 @@ The dataset contains customer transaction records with features such as:
 * Age
 * Gender
 * Product Category
-* Purchase Amount
+* Purchased Amount
 * Purchase Frequency
 * Discount Applied
 * Payment Method
